@@ -1,6 +1,6 @@
-# 2D Linear Elasticity FEM Solver (Python)
+# Linear Elasticity FEM Solver (Python)
 
-This repository contains a modular finite element framework for solving two dimensional linear elasticity problems. The code is structured to clearly separate FEM utilities, physics kernels, drivers, and post processing.
+This repository contains a modular finite element framework for solving linear elasticity problems. The code is structured to clearly separate FEM utilities, physics kernels, drivers, and post processing.
 
 ## Overview
 
